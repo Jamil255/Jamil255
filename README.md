@@ -41,7 +41,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jamil-portfolio.netlify.app/](https://jamil-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Next, NodeJS and React Native**
+- 💬 Ask me about **React, Next,  and React Native**
 
 - 📫 How to reach me **jamilafzal255@gmail.com**
 
