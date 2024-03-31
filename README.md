@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="saleh" /> 
  <br/>
 
-  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/salehsheikh"> -->
+  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/Jamil255"> -->
 
 </p>
 
@@ -91,15 +91,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--<div  align="center">-->
-<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umermemon4648&show_icons=true&locale=en&theme=one_dark_pro" alt="umermemon4648" /></p>-->
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jamil2554648&show_icons=true&locale=en&theme=one_dark_pro" alt="Jamil2554648" /></p>-->
 <!--<div/>-->
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umermemon4648&theme=one_dark_pro&hide_border=true" alt="umermemon4648" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamil2554648&theme=one_dark_pro&hide_border=true" alt="Jamil2554648" /></p>
 <div/>
 
 <!--<div align="center">-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=umermemon4648&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="umermemon4648" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamil2554648&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="Jamil2554648" />-->
 <!--<div/>-->
 
 <br><br>
@@ -108,7 +108,7 @@
 
 <!--<h3 align="left">Activity:</h3>-->
 
-<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=salehsheikh&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
+<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamil255&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 <!--<br><br>-->
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
