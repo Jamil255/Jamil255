@@ -8,7 +8,7 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="saleh's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="saleh" /> 
+ <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="Jamil255" /> 
  <br/>
 
   <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/Jamil255"> -->
