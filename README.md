@@ -41,7 +41,7 @@
 
 - 🌱 I’m currently learning **Backend Nodejs && SQL  && PostgreSql**
 
-- 👨‍💻 All of my projects are available at [https://jamilafzaldev.netlify.app/]([https://jamil-portfolio.netlify.app](https://jamilafzaldev.netlify.app/)/)
+- 👨‍💻 All of my projects are available at [https://jamilafzaldev.netlify.app/](https://jamilafzaldev.netlify.app/)/)
 
 - 💬 Ask me about **React, Next,  and React Native**
 
