@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jamil Afzal </h1>
+<h1 align="center">Hi 👋, I'm  Afzal </h1>
 <h3 align="center">An intense MERN Stack Programmer</h3>
 
 <p align="center">The way that computer technology 🌞 has transformed our lives in ways we could never have imagined fascinates me. In addition, I enjoy discovering new tech stacks and using them to create interesting things. 💻</p>
@@ -8,10 +8,10 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="saleh's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="Jamil255" /> 
+ <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="255" /> 
  <br/>
 
-  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/Jamil255"> -->
+  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/255"> -->
 
 </p>
 
@@ -41,17 +41,17 @@
 
 - 🌱 I’m currently learning **SQL && PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://jamilafzaldev.netlify.app/](https://jamilafzaldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://afzaldev.netlify.app/](https://afzaldev.netlify.app/)
 
 - 💬 Ask me about **React, Next,  and React Native**
 
-- 📫 How to reach me **jamilafzal255@gmail.com**
+- 📫 How to reach me **afzal255@gmail.com**
 
 - ⚡ Fun fact **Coding Adventures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jamil255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamil255/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/255/" height="30" width="40" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -82,7 +82,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux,Socket,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux,nginx" />
   </a>
 </p>
 
@@ -91,15 +91,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--<div  align="center">-->
-<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jamil255&show_icons=true&locale=en&theme=one_dark_pro" alt="Jamil255" /></p>-->
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=255&show_icons=true&locale=en&theme=one_dark_pro" alt="255" /></p>-->
 <!--<div/>-->
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamil255&theme=one_dark_pro&hide_border=true" alt="Jamil255" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=255&theme=one_dark_pro&hide_border=true" alt="255" /></p>
 <div/>
 
 <!--<div align="center">-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamil255&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="Jamil255" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=255&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="255" />-->
 <!--<div/>-->
 
 <br><br>
@@ -108,7 +108,7 @@
 
 <!--<h3 align="left">Activity:</h3>-->
 
-<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamil255&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
+<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=255&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 <!--<br><br>-->
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
@@ -116,5 +116,5 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy interacting with a variety of folks. thus I'd be pleased to meet you more if you would like to say <b>hi!<b>:)</em>
 
 <!--<br>-->
-<!--<p align="right" > Created with 🧡 by <a href="https://jamil-portfolio.netlify.app/">Saleh</a></p>-->
+<!--<p align="right" > Created with 🧡 by <a href="https://-portfolio.netlify.app/">Saleh</a></p>-->
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
