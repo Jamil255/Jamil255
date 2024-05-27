@@ -8,10 +8,10 @@
   <!--<img src="https://img.shields.io/badge/Languages-JavaScript | Typescript | Node | React -blue.svg" alt="saleh's languages" /> -->
   <!--<br/>-->
 
- <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="255" /> 
+ <img src="https://komarev.com/ghpvc/?username=supuna9&label=Profile%20views&color=0e75b6&style=flat" alt="Jamil255" /> 
  <br/>
 
-  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/255"> -->
+  <!--<img alt="Profile followers" src="https://img.shields.io/github/followers/Jamil255"> -->
 
 </p>
 
@@ -45,13 +45,13 @@
 
 - 💬 Ask me about **React, Next,  and React Native**
 
-- 📫 How to reach me **afzal255@gmail.com**
+- 📫 How to reach me **afzalJamil255@gmail.com**
 
 - ⚡ Fun fact **Coding Adventures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/255/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Jamil255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Jamil255/" height="30" width="40" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -91,15 +91,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--<div  align="center">-->
-<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=255&show_icons=true&locale=en&theme=one_dark_pro" alt="255" /></p>-->
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jamil255&show_icons=true&locale=en&theme=one_dark_pro" alt="Jamil255" /></p>-->
 <!--<div/>-->
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=255&theme=one_dark_pro&hide_border=true" alt="255" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamil255&theme=one_dark_pro&hide_border=true" alt="Jamil255" /></p>
 <div/>
 
 <!--<div align="center">-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=255&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="255" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamil255&show_icons=true&locale=en&layout=compact&theme=one_dark_pro" alt="Jamil255" />-->
 <!--<div/>-->
 
 <br><br>
@@ -108,7 +108,7 @@
 
 <!--<h3 align="left">Activity:</h3>-->
 
-<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=255&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
+<!--![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jamil255&custom_title=Saleh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
 <!--<br><br>-->
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
