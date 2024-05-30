@@ -41,11 +41,11 @@
 
 - 🌱 I’m currently learning **  && PostgreSQL &&**
 
-- 👨‍💻 All of my projects are available at [https://afzaldev.netlify.app/](https://afzaldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jamilafzaldev.netlify.app/](https://jamilafzaldev.netlify.app/)
 
 - 💬 Ask me about **React, Next,  and React Native**
 
-- 📫 How to reach me **afzalJamil255@gmail.com**
+- 📫 How to reach me **jamilafzal255@gmail.com**
 
 - ⚡ Fun fact **Coding Adventures**
 
