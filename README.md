@@ -68,7 +68,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql" /> 
   </a>
 </p>
 
