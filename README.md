@@ -113,7 +113,7 @@
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy interacting with a variety of folks. thus I'd be pleased to meet you more if you would like to say <b>hi!<b>:)</em>
+ <em><b>Winners never quit ,Quitter never win </b></em>
 
 <!--<br>-->
 <!--<p align="right" > Created with 🧡 by <a href="https://-portfolio.netlify.app/">Saleh</a></p>-->
