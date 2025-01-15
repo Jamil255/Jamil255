@@ -40,15 +40,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **  && PostgreSQL &&**
+- 🌱 I’m currently learning **Nestjs &&**
 
-- 👨‍💻 All of my projects are available at [https://jamilafzaldev.netlify.app/](https://jamilafzaldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [myportfolio](https://jamilafzaldev.netlify.app/)
 
 - 💬 Ask me about **React, Next,  and React Native**
 
 - 📫 How to reach me **jamilafzal255@gmail.com**
 
-- ⚡ Fun fact **Coding Adventures**
+- ⚡ Fun fact **I'm still learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
