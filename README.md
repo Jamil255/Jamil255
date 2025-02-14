@@ -46,8 +46,6 @@
 
 - 💬 Ask me about **React, Next,  and React Native**
 
-- 📫 How to reach me **jamilafzal255@gmail.com**
-
 - ⚡ Fun fact **I'm still learning**
 
 <h3 align="left">Connect with me:</h3>
