@@ -45,6 +45,7 @@
 - 👨‍💻 All of my projects are available at [myportfolio](https://jamilafzaldev.netlify.app/)
 
 - 📫 How to reach me **jamilafzal255@gmail.com**
+- My Resume at [CV](https://drive.google.com/file/d/1MVtQNQ0IIun3lPPZOn1SdmIWmCJtuja6/view)
 
 - ⚡ Fun fact **I'm still learning**
 
