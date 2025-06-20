@@ -82,7 +82,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux,miro,swagger" />
   </a>
 </p>
 
