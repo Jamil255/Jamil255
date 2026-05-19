@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Jamil Afzal </h1>
-<h3 align="center">An intense MERN Stack Programmer</h3>
+<h3 align="center">An Aspiring Backend Engineer Who Loves Scalable Systems</h3>
 
 
 <p align="center">The way that computer technology 🌞 has transformed our lives in ways we could never have imagined fascinates me. In addition, I enjoy discovering new tech stacks and using them to create interesting things. 💻</p>
